@@ -2,7 +2,7 @@
   "name": "Adil Chain",
   "chain": "ADIL",
   "icon": "adil",
-  "rpc": ["https://adilchain-rpc.io", "wss://adilchain-rpc.io"],
+  "rpc": ["", "wss://adilchain-rpc.io"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Adil Chain",
